@@ -2,7 +2,7 @@
   "uuid": "appmenu-color-icon@arahiko-ayami.github.com",
   "name": "Color App Menu Icon for GNOME 40+",
   "description": "Replace the symbolic application menu icon with the regular one. An alternative version of yanbab's extension that supports GNOME 40 and higher",
-  "url": "https://github.com/arahiko-ayami/appmenu-color-icon-gnome",
+  "url": "https://github.com/arahiko-ayami/gnome-shell-extension-regular-appmenu-icon",
   "version": 1,
   "shell-version": [
     "3.36", "3.38", "40", "41", "42", "43"
