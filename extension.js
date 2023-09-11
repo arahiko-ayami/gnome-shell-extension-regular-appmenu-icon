@@ -5,11 +5,11 @@ function update() {
 }
 
 function enable() {
-    update();
+   // update();
 }
 
 function disable() {
-    update();
+   // update();
 }
 
 function init() {
